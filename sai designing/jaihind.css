@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+*{ margin:0px;
+   padding:0px;
+  
+	}
+img{ max-width:100%;
+     height:auto;}
+
+
+/*------------------------------------------------------*/
+
+
+
+
+.head-part{ height:150px;
+            background: orange;
+	}
+	
+	
+.mid{
+	margin: 0px 80px;
+	}
+	
+.head{
+	}
+	
+.head img{
+	width: 10%;
+	border-radius: 50%;
+	margin-top: 10px;
+	float: left;
+	}
+	
+.head nav{
+	padding-top: 65px;
+	margin-left: 202px;
+	}
+.head nav a{
+	font-size: 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	border: 2px solid darkblue;
+	padding: 10px 10px;
+	margin-left: 50px;
+	background: antiquewhite;
+
+	}
+	
+	
+	
+	/*---------------------------------------------------------*/
+	
+	
+	
+.bnr-part{ height:400px;
+           background:url(images/ind%20banner%201.jpg) no-repeat;
+		   background-size:cover;
+		   background-position:center;
+	}
+	
+.bnr{
+	padding-top: 138px;
+	}
+
+.bnr h1{
+	font-size: 50px;
+	text-transform: uppercase;
+	color: antiquewhite;
+	background: black;
+	width: 55%;
+	padding: 3px 9px;
+	margin-left: 73px;
+	opacity: 0.5;
+	}	
+			
+/*--------------------------------------------------------------------*/
+
+
+
+
+.middle{ height:828px;
+         background:whitesmoke;
+	}
+	
+.middle h1{
+	font-size: 25px;
+	text-transform: uppercase;
+	text-decoration: center;
+	text-align: center;
+	border: 2px solid orange;
+	width: 45%;
+	margin-left: 320px;
+	padding: 4px 0px;
+	border-radius: 28px;
+	color: white;
+	background: green;
+	opacity: 1;
+	}
+		
+.bx{
+	width: 30%;
+	float: left;
+	height: 221px;
+	margin-left: 39px;
+	margin-top: 34px;
+	}
+	
+.bx img{
+	width: 100%;
+	height: 221px;
+	border: 2px solid darkblue;
+	}
+		
+/*--------------------------------------------------------*/
+
+
+.ftr-sec{ height:346px;
+          background:green;
+	}
+
+.ftr {
+	width: 20%;
+	float: left;
+	margin-left: 127px;
+	}
+	
+.ftr ul{
+	margin-top: 45px;
+	}
+	
+.ftr ul li{
+	list-style: none;
+	font-size: 20px;
+	line-height: 50px;
+	color: whitesmoke;
+	border: 2px solid darkblue;
+	margin-top: 6px;
+	text-align: center;
+	}
+	
+				
+						

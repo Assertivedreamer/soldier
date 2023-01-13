@@ -1,0 +1,152 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* { margin:0px;
+    padding:0px;
+}
+
+img {
+	max-width:100%;
+	height: auto;}
+	
+
+/*-----------------------------------------------*/	
+
+
+
+
+.head-part{ height:150px;
+            background:brown;
+	}
+	
+	
+.mid {
+	margin: 0px 80px;
+	}
+	
+
+.head{
+	}
+	
+.head img{
+	width: 14%;
+	border-radius: 220px;
+	margin-top: 12px;
+	float: left;
+	}
+	
+.head nav{
+	padding-top: 61px;
+	margin-left: 173px;
+	}
+	
+.head nav a {
+	font-size: 24px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: red;
+	border: 1px solid chartreuse;
+	margin-left: 28px;
+	/*! margin-top: 16px; */
+	padding: 6px 6px;
+	background-color: deepskyblue;
+	}					
+	
+	
+/*--------------------------------------------------------*/
+
+
+
+
+.bnr-part{ height:480px;
+          background:url(images/engl%20banner%202w.png) no-repeat;
+		   background-size:cover;
+		   background-position:center;
+	}
+	
+.bnr{
+	padding-top: 299px;
+	}
+	
+.bnr h1{
+	font-size: 32px;
+	color: greenyellow;
+	background: black;
+	width: 35%;
+	text-transform: uppercase;
+	padding: 5px 30px;
+	margin-left: 341px;
+	opacity: 0.6;
+	}
+
+
+	
+/*--------------------------------------------------------*/
+
+
+
+
+.middle{
+	height:480px;
+	background:#0F0;
+	}
+	
+.middle h1 {
+	font-size: 29px;
+	text-transform: uppercase;
+	text-align: center;
+	border: 2px solid blue;
+	width: 36%;
+	margin-left: 391px;
+	padding: 4px 0px;
+	border-radius: 30%;
+	background: whitesmoke;
+	color: red;
+	opacity: 0.8;
+	margin-top: 0px;
+	}
+	
+.bx{
+	width: 30%;
+	float: left;
+	height: 220px;
+	margin-left: 35px;
+	margin-top: 90px;
+	}
+	
+.bx img{
+	width: 100%;
+	height: 220px;
+	border: 2px solid orange;
+	}				
+				
+				
+/*--------------------------------------------------------*/
+
+
+.ftr-sec{ height:350px;
+          background:skyblue;
+	}
+	
+.ftr{
+	width: 25%;
+	float: left;
+	margin-left: 99px;
+	}
+	
+.ftr ul{
+	margin-top: 30px;
+	}
+	
+.ftr ul li{
+	list-style: none;
+	font-size: 20px;
+	line-height: 35px;
+	color: red;
+	border: 1px solid black;
+	margin-top: 15px;
+	text-align: center;
+	}			
+
+				
